@@ -1,1 +1,1 @@
-# Dynmaic-Algorithm
+# Dynamic-Algorithm
