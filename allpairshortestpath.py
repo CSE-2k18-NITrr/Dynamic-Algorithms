@@ -1,4 +1,5 @@
 #Shortest Distance between all pairs of nodes
+#Floyd Warshall algorithm
 
 #Index 0 is not being used its just ant random number(dummy value)
 cost= {1:[1,0,3,100005,7],2:[1,8,0,2,10000],3:[1,5,10000,0,1],4:[1,2,10000,10000,0]}
