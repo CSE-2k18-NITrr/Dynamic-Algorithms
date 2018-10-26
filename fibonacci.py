@@ -7,8 +7,8 @@ def fib(n):
 	if n in memo:
 		return memo[n]
 	else:
-		if n<=2:
-			return 1
+		if n<=1:
+			return 0
 		else:
 			f=fib(n-1)+fib(n-2)
 			memo[n]=f
